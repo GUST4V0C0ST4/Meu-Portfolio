@@ -1,0 +1,22 @@
+body {
+    background-color: ; /* cor do plano de fundo */
+    color: ; /* cor do texto */
+    font-weight: bold; /* texto em negrito */
+    padding: ; /* preenchimento ou deixar maior */
+    border-radius: ; /* Define um raio de ... para todas as quatro bordas */
+    float: right; /* deixar o arquivo para a direita */
+    width: ; /* Define a largura desejada */
+    height: ; /* defina a altura desejada */
+    border-top-left-radius: ; /* Raio do canto superior esquerdo */
+    border-top-right-radius: ; /* Raio do canto superior direito */
+    border-bottom-left-radius: ; /* Raio do canto inferior esquerdo */
+    border-bottom-right-radius: ; /* Raio do canto inferior direito */
+    box-sizing: border-box; /* nao deixa que o content saia de dentro do box, tudo fica dentro do box/quadrado */
+    flexbox (estudar)
+    box model (estudar)
+    reset css (estudar)
+    viewport (estudar)
+    box-sizing: ; (estudar)
+    height:  (estudar)
+    
+}

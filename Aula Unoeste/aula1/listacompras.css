@@ -1,0 +1,42 @@
+.corpo{
+    background-color: purple;
+    margin: 15px;
+}
+.titulo{
+    color: #f8f8f8;
+    display: flex;
+    background-color: rgb(red, green, blue);
+    justify-content: start;
+    justify-items: center;
+    align-items: center;
+    border-radius: 10px;
+    height: 80px;
+    font-size: 20px;
+}
+.carrinho{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    margin: 30px;
+    background-color: #f8f8f8;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagem{
+    width: 40px;
+}
+.lista{
+    font-size: 15px;
+}
+.campoInput{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 10px;
+}
+.botaoAdicionar{
+    height: 45px;
+    border-radius: 10px;
+}

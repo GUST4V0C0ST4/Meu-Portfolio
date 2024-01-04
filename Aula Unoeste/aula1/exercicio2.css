@@ -1,0 +1,41 @@
+.corpo{
+   background-color: lightpink;
+
+}
+.cabecalho{
+   font-family: cursive;
+   background-color: lightblue;
+   color: darkblue;
+   justify-items: center;
+   justify-content: center;
+   align-items: center;
+   border-radius: 10px;
+   height: 80px;
+   font-size: 30px;
+   display: flex;
+}
+.alerta{
+   background-color: red;
+   font-size: 25px;
+   color: #f8f8f8;
+   display: flex;
+   justify-items: center;
+   justify-content: center;
+   text-align: center;
+   width: 300px;
+   border-radius: 20px;
+   margin: 0 auto;
+}
+.imagem{
+   width: 600px;
+   margin: 30px;
+
+}
+.secao{
+   background-color: #f8f8f8;
+   margin: 20px;
+   border-radius: 20px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}

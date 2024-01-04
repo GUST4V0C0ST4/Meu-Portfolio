@@ -1,0 +1,17 @@
+.corpo{
+   background-color: lightgrey;
+   font-family: arial, helvetica, sans-serif;
+
+}
+.cabecalho{
+   background-color: #133328;
+   color: #f8f8f8;
+   justify-items: center;
+   justify-content: center;
+   align-items: center;
+   border-radius: 10px;
+   height: 80px;
+   font-size: 30px;
+   display: flex;
+
+}
